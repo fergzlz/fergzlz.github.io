@@ -40,11 +40,10 @@ a {
 }
 
 #container {
-	background: black;
+	background:rgba(0, 0, 0, 0.75);
 	width: 440px;
 	color: white;
 	padding: 15px;
-	opacity: 0.75;
 }
 
 
